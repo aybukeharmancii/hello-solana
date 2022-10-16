@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Testing client for the Solana program",
+  "main": "index.js",
+  "repository": "https://github.com/moonTheCurious/hello-solana.git",
+  "dependencies": {
+    "@solana/web3.js": "^1.48.0"
+  }
+}
